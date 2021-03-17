@@ -43,26 +43,26 @@ Click the Image below to go the website:
 
 ## Splash/Index/Home page
 
-![Spash-Home Page](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/splash-home-page.png =750x)
+![Spash-Home Page](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/splash-home-page.png)
 
 This page is what our visitors will first see, from here they can view recent questions ask, log in, sign-up, 
 search for questions. 
 
 ## Sign-up
 
-![Sign-up-form](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/sign-in%20form.png =750x)
+![Sign-up-form](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/sign-in%20form.png)
 
 When you press the sign-up link, it will bring you to this page our sign- up form. It is where our visitors become our of TipsyStack users. 
 
 ## Log-in
 
-![Log-in-form](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/log-in%20form.png =750x)
+![Log-in-form](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/log-in%20form.png)
 
 
 After pressing log-in from home/spash page you will be brought here, where a register user can log-in or visitors can log-in with our "Demo Log in" to be able to try out sites full features without having to register.  Also here you can see job listings relating to spirits. You can see a list of our Users going in the 'Users" link under "Public" on our side bar. Use it to find a friend or a network contact. See Below...
 
 
-![Users-Page](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/all%20users.png =750x)   
+![Users-Page](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/all%20users.png)   
 
 
 ## Cocktail-Qs (recent/all/searched)
@@ -71,35 +71,35 @@ After signing in or loging in will bring you to this page...
 
 To Our Most recent Cocktail-Q page:
 
-![Recent Cocktail-Q Page](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/recent%20cocktail-Qs.png =750x)
+![Recent Cocktail-Q Page](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/recent%20cocktail-Qs.png)
 
 
 You can browse most recent Cocktail-Qs or  go to bottom of page and click on "Show All Botton" to view all of Cocktail-Qs
 
-![show-all-button](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/bottom%20of%20the%20recent%20Cocktail-q%20recent%20pages.png =750x) 
+![show-all-button](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/bottom%20of%20the%20recent%20Cocktail-q%20recent%20pages.png) 
 
 
 
 ### All of the Cocktail-Qs currently in the site
 
-![All of The CocktailQs Page](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/all%20of%20cocktail-Q.png =750x)
+![All of The CocktailQs Page](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/all%20of%20cocktail-Q.png)
 
 ### Searching Cocktail-Qs
 
 Using the search bar on the nav bar will bring up relating Cocktail-Qs based on the letter to word you have entered. And will bring you to our search-page result.
 
-![Search-result-Page](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/search-result.png =750x)
+![Search-result-Page](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/search-result.png)
 
 
 ## Cocktail-Q and Cocktail-As Page
 
-![Cocktail-Q and Cocktail-As Page](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/question%26answer.png =750x)
+![Cocktail-Q and Cocktail-As Page](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/question%26answer.png)
 
 This is the page where you brought to after click one of Cocktail-Qs. This is where you can post Cocktail-Q or Post a Cocktail-A towards the current Cocktail-Q. It is also where as register user can vote on Cocktail-As. As register user if you are the owner of the Cocktail-Q or one Cocktail-A this is where you can initiate edit of those items or delete it all together. 
 
 ## User Page
 
-![User-Page](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/user's%20page.png =750x)
+![User-Page](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/user's%20page.png)
 
 As an added bonus, individual users can go to "My Profile" under Personal Links Header on our side-bar to see all the Cocktail-Qs and Cocktail-As that they have posted throughout the site. From here you can click-on any Cocktail-Q and Cocktail-A you have created and will be re-directed on the corresponding page to edit or  delete those items or just review that particular thread.
 
@@ -149,11 +149,13 @@ No special instructions, the forum site is fully functional!
 
 # Overall Structure
 
-![](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/node%20js%20npm.png =250x)    ![](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/pugIcon.png =250x)
+![](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/node%20js%20npm.png)    ![](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/pugIcon.png)
 
-![](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/5096fabbfd8edd3a5eeb3d66cb93762b86d0f7a7/public/images/css3.svg =250x) ![](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/jsIcon.png =250x)
+![](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/5096fabbfd8edd3a5eeb3d66cb93762b86d0f7a7/public/images/css3.svg) 
 
-![](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/6lu26u1oaysf8cdfiiux.png =250x)
+![](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/jsIcon.png)
+
+![](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/6lu26u1oaysf8cdfiiux.png)
 
 
 
@@ -171,7 +173,7 @@ The front end is built completely in  Pug.js  and JavaScript and utilizes  CSS a
 
 TipsyStack uses:
 
--   [BCrypt](https://github.com/codahale/bcrypt-ruby)  for authorization
+-  [BCrypt](https://github.com/codahale/bcrypt-ruby)  for authorization
 -  [Node modules](https://github.com/node-modules) for many dependencies and functionality
 - [Express js](https://github.com/expressjs/express) for web framework
 - [Morgan](https://github.com/expressjs/morgan) for the http logger middleware for node.js
