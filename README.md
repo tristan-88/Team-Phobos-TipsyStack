@@ -151,7 +151,7 @@ No special instructions, the forum site is fully functional!
 
 ![](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/node%20js%20npm.png)    ![](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/pugIcon.png)
 
-![](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/5096fabbfd8edd3a5eeb3d66cb93762b86d0f7a7/public/images/css3.svg) 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodix.com%2Fcss&psig=AOvVaw0M3Ar_JBNcFCStLioD26l1&ust=1616047481101000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKj-mZPUtu8CFQAAAAAdAAAAABAe) 
 
 ![](https://raw.githubusercontent.com/Mikhail-Kashin/Team-Phobos-TipsyStack/main/public/images/jsIcon.png)
 
